@@ -13,3 +13,8 @@ categories
 
 hemingway =  Author.new
 hemingway.stories #=> [#<Story>, #<Story>]
+
+Implement a through for categories..
+
+author.build_story("The Name")
+story.build_author("New Author")
